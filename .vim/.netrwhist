@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/ccrabtree/backup/lib/api/microsoft/exchange/ews/OAUTHSoapClient'
+let g:netrw_dirhist_2='/Users/ccrabtree/backup/lib/api/microsoft/exchange/ews/NTLMSoapClient'
+let g:netrw_dirhist_3='/Users/ccrabtree/backup/lib/api/microsoft/exchange/ews/EWSType'
+let g:netrw_dirhist_4='/Users/ccrabtree/x'
+let g:netrw_dirhist_5='/Users/ccrabtree/t'
+let g:netrw_dirhist_6='/usr/local/Cellar/php55/5.5.30/var/log'
+let g:netrw_dirhist_7='/Users/ccrabtree/t/columns.query.sql'
+let g:netrw_dirhist_8='/Users/ccrabtree/notes'
